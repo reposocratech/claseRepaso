@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-console.log('heeey');
-=======
-
 let a = 2000
 
 import React from 'react'
@@ -12,4 +8,3 @@ export const index = () => {
   )
 }
 
->>>>>>> master
