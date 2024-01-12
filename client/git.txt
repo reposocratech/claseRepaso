@@ -1,0 +1,17 @@
+git status: ver el estado de los archivos
+·
+git add . : guardar todos los archivos en la copia de seguridad
+·
+git add <nombre-archivo>: guardar archivo en la copia de seguridad
+·
+git reset <nombre de archivo> elimina archivo de la copia de seguridad
+·
+git commit -m “mensajedescriptivo”: crea la copia de seguridad(versión)
+·
+git push origin <nombre de la rama>: guarda copia de seguridad en la rama
+·
+git pull origin <nombre de la rama>: descarga los cambios de la rama
+·
+git Branch: ver listado de las ramas y en qué rama estás
+·
+git checkout <rama>: moverte entre ramas
