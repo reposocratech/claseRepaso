@@ -1,3 +1,5 @@
+
+// si o si people, un kalua?
 import React from 'react'
 
 
@@ -6,3 +8,4 @@ export const index = () => {
     <div>index</div>
   )
 }
+
