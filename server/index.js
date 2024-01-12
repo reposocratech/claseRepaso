@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+console.log('heeey');
+=======
 
 let a = 2000
 
@@ -9,3 +12,4 @@ export const index = () => {
   )
 }
 
+>>>>>>> master
