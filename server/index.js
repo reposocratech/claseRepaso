@@ -1,3 +1,6 @@
+
+"hola juan undefined"
+
 import React, { useState } from 'react'
 
 export const index = () => {
@@ -15,3 +18,4 @@ export const index = () => {
     </div>
   )
 }
+
