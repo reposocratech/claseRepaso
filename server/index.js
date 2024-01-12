@@ -1,11 +1,10 @@
-
-// si o si people, un kalua?
 import React from 'react'
 
-
 export const index = () => {
+
   return (
-    <div>index</div>
+    <div>
+      <h1>Hola, este es mi proyecto</h1>
+    </div>
   )
 }
-
